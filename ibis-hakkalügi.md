@@ -6,15 +6,14 @@
 | Shifters        |                             |
 | Front Deraileur |                             |
 | Rear Deraileur  |                             |
-| Chain           |                             |
+| Chain           | Shimano Dura-Ace            |
 | Cassette        |                             |
-| Brakes          |                             |
+| Brakes          | Shimano XTR Canti           |
 | Crankset        |                             |
 | Tires           | Continental Grand Prix 5000 |
 | Handlebars      |                             |
 | Stem            |                             |
-| Saddle          |                             |
+| Saddle          | SELLE ITALIA Flite Black    |
 | Seatpost        |                             |
-| Headset         |                             |
+| Headset         | Chris King                  |
 | Grips           |                             |
-
